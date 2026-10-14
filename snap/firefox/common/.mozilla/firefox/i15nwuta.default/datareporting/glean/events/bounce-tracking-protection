@@ -1,0 +1,2 @@
+{"timestamp":4126046,"category":"bounce.tracking.protection","name":"purge_action","extra":{"require_stateful_bounces":"false","is_dry_run":"true","success":"true","site_host":"about.google","glean_timestamp":"1791952324560","bounce_time":"1791870215"}}
+{"timestamp":4126047,"category":"bounce.tracking.protection","name":"purge_action","extra":{"bounce_time":"1791870645","site_host":"chatgpt.com","require_stateful_bounces":"false","is_dry_run":"true","glean_timestamp":"1791952324560","success":"true"}}
