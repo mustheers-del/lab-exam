@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Ptyxis.desktop" score="18232" last-seen="1791948882"/>
+    <application id="org.gnome.Nautilus.desktop" score="7" last-seen="1791871774"/>
+    <application id="firefox_firefox.desktop" score="560" last-seen="1791950916"/>
+    <application id="gnome-initial-setup.desktop" score="0.5" last-seen="1791365819"/>
+  </context>
+</application-state>
